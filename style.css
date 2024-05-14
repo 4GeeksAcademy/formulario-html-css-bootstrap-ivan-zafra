@@ -1,0 +1,21 @@
+.main {
+  border: 1px;
+}
+
+.header {
+  background-color: whitesmoke;
+  padding: 5px;
+  border: 1px solid rgb(233, 224, 224);
+}
+.form {
+  border: 1px solid rgb(233, 224, 224);
+}
+
+.footer {
+  background-color: whitesmoke;
+  padding: 5px;
+  border: 1px solid rgb(233, 224, 224);
+  display: flex;
+  justify-content: flex-end;
+  gap: 4px;
+}
